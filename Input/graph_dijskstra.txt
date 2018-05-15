@@ -1,0 +1,9 @@
+s t 10
+s y 3
+t y 1
+t x 2
+y t 4
+y z 2
+y x 8
+x z 7
+z x 9
